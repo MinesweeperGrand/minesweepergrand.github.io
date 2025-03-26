@@ -28,6 +28,7 @@ eskimi.com, 2020000663, RESELLER
 freewheel.tv, 741650, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
+improvedigital.com, 1664, RESELLER
 improvedigital.com, 2276, RESELLER
 improvedigital.com, 2464, RESELLER
 improvedigital.com, 2525, RESELLER
