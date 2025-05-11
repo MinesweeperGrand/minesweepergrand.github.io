@@ -285,3 +285,10 @@ admanmedia.com, 990, RESELLER
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 2037, RESELLER
 admanmedia.com, 2242, RESELLER
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+betweendigital.com, 45827, RESELLER
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+app-stock.com, 256917, RESELLER
