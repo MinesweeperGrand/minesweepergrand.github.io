@@ -289,3 +289,4 @@ pubnative.net, 1009966, RESELLER, d641df8625486a7b
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1008379, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
+copper6.com, 766114, RESELLER
