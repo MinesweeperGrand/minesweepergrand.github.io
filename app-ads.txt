@@ -297,3 +297,4 @@ bidease.com, bidease_seller_20, RESELLER
 eskimi.com, 2020000545, RESELLER
 eskimi.com, 2020000663, RESELLER
 grouprvn.com, 420212011, RESELLER
+loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
