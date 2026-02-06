@@ -1,5 +1,139 @@
 google.com, pub-3243511584592373, DIRECT, f08c47fec0942fa0
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><array><dict><!-- Bigo --><key>SKAdNetworkIdentifier</key><string>a8cz6cu7e5.skadnetwork</string></dict><dict><!-- Chartboost, Inc. --><key>SKAdNetworkIdentifier</key><string>f38h382jlk.skadnetwork</string></dict><dict><!-- DATASEAT LTD --><key>SKAdNetworkIdentifier</key><string>m8dbw4sv7c.skadnetwork</string></dict><dict><!-- Jampp LTD --><key>SKAdNetworkIdentifier</key><string>yclnxrl5pm.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>5l3tpt7t6e.skadnetwork</string></dict><dict><!-- Pubmatic Inc --><key>SKAdNetworkIdentifier</key><string>k674qkevps.skadnetwork</string></dict><dict><!-- Kidoz Ltd. --><key>SKAdNetworkIdentifier</key><string>v79kvwwj4g.skadnetwork</string></dict><dict><!-- Sabio Mobile Inc. --><key>SKAdNetworkIdentifier</key><string>glqzh8vgby.skadnetwork</string></dict><dict><!-- ScaleMonk Inc. --><key>SKAdNetworkIdentifier</key><string>av6w8kgt66.skadnetwork</string></dict><dict><!-- ADTIMING TECHNOLOGY PTE. LTD. --><key>SKAdNetworkIdentifier</key><string>488r3q3dtq.skadnetwork</string></dict><dict><!-- Bidmachine --><key>SKAdNetworkIdentifier</key><string>wg4vff78zm.skadnetwork</string></dict><dict><!-- SPOTAD LTD --><key>SKAdNetworkIdentifier</key><string>f73kdq92p3.skadnetwork</string></dict><dict><!-- Anzu.io --><key>SKAdNetworkIdentifier</key><string>77y3x8wds4.skadnetwork</string></dict><dict><!-- Smadex SL --><key>SKAdNetworkIdentifier</key><string>ppxm28t8ap.skadnetwork</string></dict><dict><!-- Apptimus LTD --><key>SKAdNetworkIdentifier</key><string>lr83yxwka7.skadnetwork</string></dict><dict><!-- Bidease inc --><key>SKAdNetworkIdentifier</key><string>s39g8k73mm.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>p78axxw29g.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>4w7y6s5ca2.skadnetwork</string></dict><dict><!-- Criteo Corp --><key>SKAdNetworkIdentifier</key><string>hs6bdukanm.skadnetwork</string></dict><dict><!-- Mail.Ru Group (myTarget) --><key>SKAdNetworkIdentifier</key><string>n9x2a789qt.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>2fnua5tdw4.skadnetwork</string></dict><dict><!-- Moloco, Inc --><key>SKAdNetworkIdentifier</key><string>9t245vhmpl.skadnetwork</string></dict><dict><!-- LifeStreet Corporation --><key>SKAdNetworkIdentifier</key><string>t38b2kh725.skadnetwork</string></dict><dict><!-- Unity Technologies --><key>SKAdNetworkIdentifier</key><string>4dzt52r2t5.skadnetwork</string></dict><dict><!-- Click Tech Limited --><key>SKAdNetworkIdentifier</key><string>32z4fx6l9h.skadnetwork</string></dict><dict><!-- UNICORN Inc. --><key>SKAdNetworkIdentifier</key><string>578prtvx9j.skadnetwork</string></dict><dict><!-- Maiden Marketing Pvt Ltd.  --><key>SKAdNetworkIdentifier</key><string>zmvfpc5aq8.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>feyaarzu9v.skadnetwork</string></dict><dict><!-- PubNative GMBH --><key>SKAdNetworkIdentifier</key><string>tl55sbb4fm.skadnetwork</string></dict><dict><!-- BidSwitch --><key>SKAdNetworkIdentifier</key><string>294l99pt4k.skadnetwork</string></dict><dict><!-- RTBHouse Pte LTD --><key>SKAdNetworkIdentifier</key><string>8s468mfl3y.skadnetwork</string></dict><dict><!-- Remerge GmbH --><key>SKAdNetworkIdentifier</key><string>2u9pt9hc89.skadnetwork</string></dict><dict><!-- Yandex Europe AG --><key>SKAdNetworkIdentifier</key><string>zq492l623r.skadnetwork</string></dict><dict><!-- IGNITE MEDIA HK LIMITED --><key>SKAdNetworkIdentifier</key><string>k6y4y55b64.skadnetwork</string></dict><dict><!-- hybrid.ai --><key>SKAdNetworkIdentifier</key><string>w9q455wk68.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>xga6mpmplv.skadnetwork</string></dict><dict><!-- Criteo SA (Manage.com) --><key>SKAdNetworkIdentifier</key><string>9rd848q2bz.skadnetwork</string></dict><dict><!-- Google LLC --><key>SKAdNetworkIdentifier</key><string>cstr6suwn9.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>9nlqeag3gk.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>pwa73g5rt2.skadnetwork</string></dict><dict><!-- Adikteev SA --><key>SKAdNetworkIdentifier</key><string>ydx93a7ass.skadnetwork</string></dict><dict><!-- Opera Software Ireland Ltd. (“Opera”) --><key>SKAdNetworkIdentifier</key><string>a2p9lx4jpn.skadnetwork</string></dict><dict><!-- LoopMe Ltd --><key>SKAdNetworkIdentifier</key><string>5lm9lj6jb7.skadnetwork</string></dict><dict><!-- BYTEMOD PTE. LTD-global --><key>SKAdNetworkIdentifier</key><string>22mmun2rn5.skadnetwork</string></dict><dict><!-- INFINITE STATE PTE. LTD. --><key>SKAdNetworkIdentifier</key><string>5f5u5tfb26.skadnetwork</string></dict><dict><!-- Facebook, Inc. --><key>SKAdNetworkIdentifier</key><string>v9wttpbfk9.skadnetwork</string></dict><dict><!-- Sift Media, Inc. --><key>SKAdNetworkIdentifier</key><string>klf5c3l5u5.skadnetwork</string></dict><dict><!-- YouAppi Inc --><key>SKAdNetworkIdentifier</key><string>3rd42ekr43.skadnetwork</string></dict><dict><!-- Mintegral --><key>SKAdNetworkIdentifier</key><string>kbd757ywx3.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>mj797d8u6f.skadnetwork</string></dict><dict><!-- Centro Inc. --><key>SKAdNetworkIdentifier</key><string>3sh42y64q3.skadnetwork</string></dict><dict><!-- Clearpier Inc. --><key>SKAdNetworkIdentifier</key><string>x44k69ngh6.skadnetwork</string></dict><dict><!-- Biga Bid Media Ltd --><key>SKAdNetworkIdentifier</key><string>3qy4746246.skadnetwork</string></dict><dict><!-- Aarki, Inc. --><key>SKAdNetworkIdentifier</key><string>4fzdc2evr5.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>vhf287vqwu.skadnetwork</string></dict><dict><!-- CrossInstall --><key>SKAdNetworkIdentifier</key><string>prcb7njmu6.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>e5fvkxwrpn.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>uw77j35x4d.skadnetwork</string></dict><dict><!-- Snap Inc. --><key>SKAdNetworkIdentifier</key><string>424m5254lk.skadnetwork</string></dict><dict><!-- BYTEMOD PTE. LTD-CN --><key>SKAdNetworkIdentifier</key><string>238da6jt44.skadnetwork</string></dict><dict><!-- Liftoff Mobile, Inc. --><key>SKAdNetworkIdentifier</key><string>7ug5zh24hu.skadnetwork</string></dict><dict><!-- Tencent --><key>SKAdNetworkIdentifier</key><string>f7s53z58qe.skadnetwork</string></dict><dict><!-- Persona.ly LTD --><key>SKAdNetworkIdentifier</key><string>44jx6755aq.skadnetwork</string></dict><dict><!-- Beeswax --><key>SKAdNetworkIdentifier</key><string>c6k4g5qg8m.skadnetwork</string></dict><dict><!-- Realtime Technologies GmbH --><key>SKAdNetworkIdentifier</key><string>4468km3ulz.skadnetwork</string></dict><dict><!-- Triapodi Ltd. --><key>SKAdNetworkIdentifier</key><string>mlmmfzh3r3.skadnetwork</string></dict><dict><!-- mkhoj Solutions Private Limited --><key>SKAdNetworkIdentifier</key><string>wzmmz9fp6w.skadnetwork</string></dict><dict><!-- Clearpier Performance Inc. --><key>SKAdNetworkIdentifier</key><string>mp6xlyr22a.skadnetwork</string></dict><dict><!-- Appier Inc.  --><key>SKAdNetworkIdentifier</key><string>v72qych5uu.skadnetwork</string></dict><dict><!-- WEBEYE MOBILE(HK) LIMITED --><key>SKAdNetworkIdentifier</key><string>5tjdwbrq8w.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>mqn7fxpca7.skadnetwork</string></dict><dict><!-- REVX TECHNOLOGY PRIVATE LIMITED --><key>SKAdNetworkIdentifier</key><string>5a6flpkh64.skadnetwork</string></dict><dict><!-- AdColony, Inc. --><key>SKAdNetworkIdentifier</key><string>4pfyvq9l8r.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>g6gcrrvk4p.skadnetwork</string></dict><dict><!--  --><key>SKAdNetworkIdentifier</key><string>97r2b46745.skadnetwork</string></dict><dict><!-- TOPON PTE. LTD. --><key>SKAdNetworkIdentifier</key><string>6yxyv74ff7.skadnetwork</string></dict></array></plist>
+adagio.io, 1522, RESELLER
+adagio.io, 1575, RESELLER
+lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+appads.in, 106246, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+tredio.io, 357a6fdf7642bf815a88822c447d9dc436891, RESELLER
+conversantmedia.com, 41024, RESELLER, 03113cd04947736d
+smartadserver.com, 4578, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4456, RESELLER
+smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5828-OB, RESELLER, 060d053dcf45cbf3
+thunder-monetize.com, 4818959194, RESELLER
+criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
+risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
+appnexus.com, 6849, RESELLER
+appnexus.com, 17779, RESELLER
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17234, RESELLER
+appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+triplelift.com, 13042, RESELLER
+triplelift.com, 14127, RESELLER, 6c33edb13117fd86
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+zmaticoo.com, 5135004, RESELLER
+bidmachine.io, 1412, RESELLER
+bidmachine.io, 896, RESELLER
+bidmachine.io, 1371, RESELLER
+blueseasx.com, 203625, RESELLER
+media.net, 8cu5l226o, RESELLER
+media.net, 8cu12aq1y, RESELLER
+media.net, 8cu132ud6, RESELLER
+media.net, 8cu355vs4, RESELLER
+media.net, 8cu9b72o6, RESELLER
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, ftvct81v, RESELLER
+sharethrough.com, 5828-OB, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, r9b1mg7e, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, ibazay96, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5828, RESELLER, d53b998a7bd4ecd2
+voisetech.com, 1066, RESELLER
+ushareit.com, lcb555b3bc8667a09a, RESELLER
+xandr.com, 17779, RESELLER
+xandr.com, 13799, RESELLER
+xandr.com, 15840, RESELLER
+smartclip.net, 13564, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+video.unrulymedia.com, 144138083, RESELLER
+ignitemediatech.com, pub_11115, RESELLER
+jcprog.com, pub-4518750432, RESELLER
+openx.com, 561470659, RESELLER, 6a698e2ec38604c6
+openx.com, 561446248, RESELLER, 6a698e2ec38604c6
+openx.com, 559912325, RESELLER, 6a698e2ec38604c6
+openx.com, 562174952, RESELLER, 6a698e2ec38604c6
+opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
+smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
+smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
+adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
+adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
+improvedigital.com, 2464, RESELLER
+improvedigital.com, 2297, RESELLER
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+unity.com, 5296371, DIRECT, 96cabb5fbdde37a7
+videoheroes.tv, 212428, RESELLER, 064bc410192443d8
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
+betweendigital.com, 45827, RESELLER
+kidoz.net, 15467, RESELLER, a109366414b7335e
+kidoz.net, 14260, RESELLER, a109366414b7335e
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+mars.media, 1010442, RESELLER
+start.io, 197760873, RESELLER
+start.io, 168507669, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+bold-win.com, 165, RESELLER, 71746737d0bab951
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
+themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
+admanmedia.com, 2242, RESELLER
+app-stock.com, 358747, RESELLER
+app-stock.com, 256917, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+lacunads.com, lcb555b3bc8667a09a, RESELLER
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
+taurusx.com, 70079, RESELLER
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+prado.co, 14260, RESELLER
